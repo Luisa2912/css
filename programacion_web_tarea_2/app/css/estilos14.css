@@ -1,0 +1,14 @@
+h1 {
+    border: 2px solid #0000ff; /* Borde de 2px, sólido, color azul */
+}
+
+h2 {
+    border: 2px dashed #0000ff; /* Borde de 2px, discontinuo, color azul */
+}
+
+h3 {
+    border: 2px dotted #0000ff; /* Borde de 2px, punteado, color azul */
+}
+
+
+

@@ -1,0 +1,7 @@
+body {
+    background-image: url("foto.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+body.fixed{}
